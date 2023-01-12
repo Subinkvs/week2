@@ -1,0 +1,7 @@
+@media (max-width: 991px) {
+    .col-lg-4 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  }
+  
